@@ -1,1 +1,1 @@
-## List of students in the course, written as "firstname lastname" #alphabetical by firstname
+## List of participants in the workshop, written as "firstname lastname" #alphabetical by firstname
